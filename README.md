@@ -1,6 +1,6 @@
 # db-mssql
 
-Biblioteca para interfacear conexões e execução de queries (inserts, updates, deletes, selects) no **MS SQL Server**, de forma transacional, através do pacote [NODE mssql](https://github.com/tediousjs/node-mssql)
+Biblioteca para interfacear conexões e queries (inserts, updates, deletes, selects) no **MS-SQL Server**, de forma transacional, através do pacote [NODE mssql](https://github.com/tediousjs/node-mssql)
 
 ## Padrão de entrada
 

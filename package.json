@@ -1,7 +1,7 @@
 {
   "name": "db-sql",
   "version": "1.0.0",
-  "description": "Biblioteca para interfacear conexões e consultas com o banco de dados MS-SQL",
+  "description": "Biblioteca para interfacear conexões e queries com o banco de dados MS-SQL Server",
   "main": "db.js",
   "directories": {
     "lib": "lib"
