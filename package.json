@@ -1,0 +1,26 @@
+{
+  "name": "db-sql",
+  "version": "1.0.0",
+  "description": "Biblioteca para interfacear conexões e consultas com o banco de dados MS-SQL",
+  "main": "db.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "mssql": "^6.2.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.3.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mariede/db-mssql.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Mariede/db-mssql/issues"
+  },
+  "homepage": "https://github.com/Mariede/db-mssql#readme",
+  "author": "Michel Guimarães Ariede"
+}
