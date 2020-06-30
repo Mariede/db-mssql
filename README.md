@@ -32,7 +32,7 @@ const query = {
 		input: [
 			['nome', '%Nome A%']
 		],
-		executar: 'SELECT ID_USUARIO, NOME, ATIVO FROM USUARIO (NOLOCK) WHERE NOME LIKE(@nome);'
+		executar: 'SELECT ID_USUARIO, NOME FROM USUARIO (NOLOCK) WHERE NOME LIKE(@nome);'
 	}
 };
 ```
