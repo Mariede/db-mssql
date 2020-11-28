@@ -12,10 +12,10 @@
     "node": ">=10.5.0"
   },
   "dependencies": {
-    "mssql": "^6.2.0"
+    "mssql": "^6.2.3"
   },
   "devDependencies": {
-    "eslint": "^7.5.0",
+    "eslint": "^7.14.0",
     "eslint-plugin-node": "^11.1.0"
   },
   "repository": {
