@@ -15,7 +15,7 @@
     "mssql": "^6.3.1"
   },
   "devDependencies": {
-    "eslint": "^7.17.0",
+    "eslint": "^7.26.0",
     "eslint-plugin-node": "^11.1.0"
   },
   "repository": {
